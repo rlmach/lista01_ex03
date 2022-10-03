@@ -1,4 +1,4 @@
-## Projeto java - GitHbub
+## Projeto atividade java - GitHbub
 
 ## Enunciado
 
